@@ -1,0 +1,7 @@
+md5: e80795bdaf2eca9294a122a45e8f361e
+outs:
+- md5: 7de7279ad73bf604960e244d6a12cf8d
+  path: some_data.xlsx
+  cache: true
+  metric: false
+  persist: false
